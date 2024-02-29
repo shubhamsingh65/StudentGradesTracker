@@ -2,7 +2,7 @@
 # Student Progress Tracking System
 
 ## Overview
-This Student Result Management System is a comprehensive web-based application designed to streamline the process of managing student results efficiently. It allows educational institutions to input, store, process, and retrieve student academic records seamlessly.
+This Student Progress Tracking System is a comprehensive web-based application designed to streamline the process of managing student results efficiently. It allows educational institutions to input, store, process, and retrieve student academic records seamlessly.
 
 ## Features
 - **User Authentication**: Secure login system for administrators, teachers, and students.
